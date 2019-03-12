@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>瘋先生網站</name>
+			<url>https://mrmad.com.tw</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/MrMadtw</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</footerlinks>
+</repo>
