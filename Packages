@@ -5,12 +5,12 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mrmadjb.callbarxscht_2.1-35_iphoneos-arm.deb
 Size: 3044
-MD5sum: ae15cf36a815c2da6a4a0cfa821ec747
-SHA1: cda4547d398c5e0dcf5fb27636d7030f1a2ddb46
-SHA256: 6c3117161134d2b7777d70a69c926ccb8ab2bdf45671e66e8cba8187e0d53fc1
+MD5sum: 737c324b84097023c8378e6141aae4c3
+SHA1: 219498fea5530af8907fc62bcd8018f24e6ae2d3
+SHA256: 0e12083308600fd78735d0f922a840d8b9ea08107a887653273b9a93dc9d90c2
 Section: Localization
 Description: 使用CallBar XS (iOS 12)繁體中文化使用前先裝主程式
-Author: Kevin <keven5211@gmail.com>
+Author: NightSnow Lin
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.callbarxscht
 Name: CallBar XS (iOS 12)繁體中文化
 
