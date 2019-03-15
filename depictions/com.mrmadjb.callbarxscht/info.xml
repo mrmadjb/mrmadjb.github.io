@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>11.0</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>test..</description>
+		<description>CallBar XS (iOS 12)中文化包，使用前先安裝主程式</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
