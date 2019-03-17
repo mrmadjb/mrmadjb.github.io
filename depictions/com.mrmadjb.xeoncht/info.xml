@@ -1,0 +1,23 @@
+<package>
+	<id>com.mrmadjb.callbarxscht</id>
+	<name>Xeon 繁體中文化</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>使用 Xeon 中文化包，使用前先安裝主程式</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>第一個中文化版本</change>
+	</changelog>
+	<links></links>
+</package>
