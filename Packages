@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mrmadjb.xeoncht_1.0_iphoneos-arm.deb
-Size: 1916
-MD5sum: 384ced81f57da60be5109a22255bb839
-SHA1: 8e47f99ca88b169e03b6af8408855c78278528f9
-SHA256: d02a39df55457ab47508ef75fd579dfc8412a9baa579e9d7a741375a01bac16f
+Size: 1920
+MD5sum: 343253409c0404ac6728438904a8bd9e
+SHA1: e6cc41393b11e937dd1e1d55cffe3b8e38caf095
+SHA256: 27201b4dcced84f1bfc077edf83648454fe58aff72640b2cfe7a6e5eee18aef9
 Section: Localization
 Description: 繁體中文化使用前先裝主程式
 Author: Mrmad <mrmadtw@gmail.com>
