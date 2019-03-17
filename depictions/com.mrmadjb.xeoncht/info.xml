@@ -16,12 +16,7 @@
 		<description>使用 Xeon 中文化包，使用前先安裝主程式
 <name>插件介紹(點我去了解)</name>
 <url>https://mrmad.com.tw/xeon</url>
-<td>
-    <a href="{https://mrmad.com.tw/xeon}">
-       <xsl:value-of select="https://mrmad.com.tw/xeon"/>
-    </a>
-</td>
-
+<urlLink><![CDATA[ <a href="https://mrmad.com.tw/xeon">Click Here</a> ]]></urlLink>
 		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
