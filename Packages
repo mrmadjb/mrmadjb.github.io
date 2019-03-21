@@ -14,6 +14,22 @@ Author: NightSnow Lin
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.callbarxscht
 Name: CallBar XS (iOS 12)繁體中文化
 
+Package: com.mrmadjb.floatingdockpluscht
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.floatingdockpluscht_1.2.2_iphoneos-arm.deb
+Size: 2892
+MD5sum: 63640eee508dfba212cb87f6cdbb98ba
+SHA1: 96257bea7aeb1682ee6b8b19424a9f0a9e39e210
+SHA256: 6c5b137e844a344fca90a6d04e1c6b9e98e7f4a73fbb761d08b22d6f2576da87
+Section: Localization
+Description: 使用繁體中文化使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.floatingdockpluscht
+Name: FloatingDockPlus繁體中文化
+
 Package: com.mrmadjb.tinybannerscht
 Version: 0.0.1
 Architecture: iphoneos-arm

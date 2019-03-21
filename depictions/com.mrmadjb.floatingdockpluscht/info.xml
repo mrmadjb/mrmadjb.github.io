@@ -1,0 +1,28 @@
+<package>
+	<id>com.mrmadjb.floatingdockpluscht</id>
+	<name>FloatingDockPlus繁體中文化</name>
+	<version>1.2.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>使用中文化包，使用前先安裝主程式
+
+<name>插件介紹：</name>
+<br />
+<urlLink><![CDATA[ <a href="https://mrmad.com.tw/FloatingDockPlus" target="_blank" >點我去了解</a> ]]></urlLink>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>中文化版本</change>
+	</changelog>
+	<links></links>
+</package>
