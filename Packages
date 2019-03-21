@@ -14,6 +14,22 @@ Author: NightSnow Lin
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.callbarxscht
 Name: CallBar XS (iOS 12)繁體中文化
 
+Package: com.mrmadjb.tinybannerscht
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.tinybannerscht_0.0.1_iphoneos-arm.deb
+Size: 2780
+MD5sum: f7f145999dd16ad486b855083cc03f29
+SHA1: 77d5f6eca15fef9602cc59a8aca41e737175852b
+SHA256: f7209f42225e5027b0168aa0583bff15ea51dd9ae5194f4c627233714c00cbc6
+Section: Localization
+Description: 使用TinyBanners繁體中文化使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.tinybannerscht
+Name: TinyBanners繁體中文化
+
 Package: com.mrmadjb.xeoncht
 Version: 1.0
 Architecture: iphoneos-arm
