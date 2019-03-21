@@ -46,3 +46,19 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.xeoncht
 Name: Xeon繁體中文化
 
+Package: com.mrmadjb.xeoncht
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.xeoncht_1.0.1_iphoneos-arm.deb
+Size: 2160
+MD5sum: 96f805d668228a354f52fa0648251d27
+SHA1: 969da3ea41634edfae12646ca8c837296e29b7c3
+SHA256: fc89cb7344946dfd697834a467ac02dfbcfab7085732300d8907a2f439ac6722
+Section: Localization
+Description: 繁體中文化使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.xeoncht
+Name: Xeon繁體中文化
+
