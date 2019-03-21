@@ -1,0 +1,28 @@
+<package>
+	<id>com.mrmadjb.tinybannerscht</id>
+	<name>TinyBanners繁體中文化</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>使用 TinyBanners 中文化包，使用前先安裝主程式
+
+<name>插件介紹：</name>
+<br />
+<urlLink><![CDATA[ <a href="https://mrmad.com.tw/TinyBanners" target="_blank" >點我去了解</a> ]]></urlLink>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>第一個中文化版本</change>
+	</changelog>
+	<links></links>
+</package>
