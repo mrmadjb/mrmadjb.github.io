@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mrmadjb.selectorprefscht_0.1.1_iphoneos-arm.deb
-Size: 1692
-MD5sum: 4c5ca6e31a914aee9ec469da78092696
-SHA1: 0c31190e9c96de8f8707de46bd762a8a09f164c9
-SHA256: f0d2f4089ba01e0ecf93149c760b90981dc925e8c884db696f975fe0e99fc171
+Size: 1748
+MD5sum: c69625de2ab0138c546754864abcac98
+SHA1: 24b6c5e234f8adc9acbd6ab087e6cc5f6a59ddeb
+SHA256: d95d1fea432518c87087f6b0dc14bd27e4ab9578175f121a6ee91506dd53aa86
 Section: Localization
 Description: 使用繁體中文化使用前先裝主程式
 Author: Mrmad <mrmadtw@gmail.com>
