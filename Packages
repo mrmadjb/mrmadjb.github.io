@@ -52,10 +52,10 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mrmadjb.tinybannerscht_0.0.1_iphoneos-arm.deb
-Size: 2780
-MD5sum: f7f145999dd16ad486b855083cc03f29
-SHA1: 77d5f6eca15fef9602cc59a8aca41e737175852b
-SHA256: f7209f42225e5027b0168aa0583bff15ea51dd9ae5194f4c627233714c00cbc6
+Size: 2744
+MD5sum: 7d473b6d514b3a8c1fc2e952bb781188
+SHA1: 5a9712a370e1ff50d23ae6676b7e955968dbe433
+SHA256: bae2568f2f73dcf2bf220d5605a716285d489bc721211ea53b6a66850cfdd934
 Section: Localization
 Description: 使用TinyBanners繁體中文化使用前先裝主程式
 Author: Mrmad <mrmadtw@gmail.com>
