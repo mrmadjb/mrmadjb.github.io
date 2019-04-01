@@ -30,6 +30,22 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.floatingdockpluscht
 Name: FloatingDockPlus繁體中文化
 
+Package: com.mrmadjb.groovetubecht
+Version: 0.7-3
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.groovetubecht_0.7-3_iphoneos-arm.deb
+Size: 1756
+MD5sum: 1bc1921c7310354ae96cae0c4dbaf647
+SHA1: e032dfdba1313c51540e73d1fc9322e674ed5b0c
+SHA256: d055e646c2e9571535ca6717020ac2ffba2bf5efbb6f09158d6a316aaad54520
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.groovetubecht
+Name: GrooveTube繁體中文化
+
 Package: com.mrmadjb.selectorprefscht
 Version: 0.1.1
 Architecture: iphoneos-arm
