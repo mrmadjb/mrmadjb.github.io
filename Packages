@@ -14,6 +14,22 @@ Author: NightSnow Lin
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.callbarxscht
 Name: CallBar XS (iOS 12)繁體中文化
 
+Package: com.mrmadjb.chargeanimationscht
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.chargeanimationscht_2.1_iphoneos-arm.deb
+Size: 1872
+MD5sum: facec89f4099681e4199bc35bb75e9d8
+SHA1: 260aa80c1290090f5ce1fae5f50ff3a6c37fb569
+SHA256: ceb9237f188f96523f60d53c6e7112d0ffca68b69154719cc404d65c217d60ee
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.chargeanimationscht
+Name: ChargeAnimations繁體中文化
+
 Package: com.mrmadjb.floatingdockpluscht
 Version: 1.2.2
 Architecture: iphoneos-arm
