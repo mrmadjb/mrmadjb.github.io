@@ -1,3 +1,19 @@
+Package: com.mrmadjb.batterypercent12cht
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.batterypercent12cht_1.0.1_iphoneos-arm.deb
+Size: 1876
+MD5sum: d3df5e94ae798618e59e9629f057dfb7
+SHA1: 3d7505aeecd1860a708e261ed7a77c671e02b025
+SHA256: 5bdc3e6e4f63094bdd215988822133d163d3c1b93d9d78d4b77d393d0b1e33b6
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.batterypercent12cht
+Name: BatteryPercent12繁體中文化
+
 Package: com.mrmadjb.callbarxscht
 Version: 2.1-35
 Architecture: iphoneos-arm
