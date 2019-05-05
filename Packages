@@ -109,6 +109,20 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.sileocht
 Name: Sileo (Beta)繁體中文化
 
+Package: com.mrmadjb.sileocht
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Filename: ./debs/com.mrmadjb.sileocht_0.0.2_iphoneos-arm.deb
+Size: 5560
+MD5sum: b88ef942d6917bea7f72ee5954dbf4d6
+SHA1: ace9a5f38ea53c9fcafed985fe2ce228e9681c5e
+SHA256: 0623c7910de9b8e8fe8dd6e012b3472c089f204784f5e98a6b4bbd06c66631f5
+Section: Localization
+Description: 針對 Sileo(Beta)加入繁體中文化語系
+Author: Mrmad <mrmadtw@gmail.com>
+Name: Sileo (Beta)繁體中文化
+
 Package: com.mrmadjb.tinybannerscht
 Version: 0.0.1
 Architecture: iphoneos-arm
