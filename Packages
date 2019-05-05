@@ -94,6 +94,21 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.selectorprefscht
 Name: Selector繁體中文化
 
+Package: com.mrmadjb.sileocht
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Filename: ./debs/com.mrmadjb.sileocht_0.0.1_iphoneos-arm.deb
+Size: 6092
+MD5sum: 644481a581245be33cabd70e70a9fb5d
+SHA1: 982b46cf80e06317989c3b6b61487407dab4be99
+SHA256: 71bd9d765207f8abc6587684b7ff50d458a75981ef2d56fe59dc1f6d74915543
+Section: Localization
+Description: 針對 Sileo(Beta)加入繁體中文化語系
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.sileocht
+Name: Sileo (Beta)繁體中文化
+
 Package: com.mrmadjb.tinybannerscht
 Version: 0.0.1
 Architecture: iphoneos-arm
