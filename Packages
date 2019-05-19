@@ -46,6 +46,22 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.chargeanimationscht
 Name: ChargeAnimations繁體中文化
 
+Package: com.mrmadjb.flamecht
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.flamecht_1.3_iphoneos-arm.deb
+Size: 2700
+MD5sum: c9170761ca14a27fb199e3b29f9ef186
+SHA1: cb3494aa37f9afcd9bc75b2a316585b8b1e7d361
+SHA256: 37903a6078d48d1c2b5f61199b51866eb806b134abd49786fd8959978e00e1bc
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.flamecht
+Name: Flame 繁體中文化
+
 Package: com.mrmadjb.floatingdockpluscht
 Version: 1.2.2
 Architecture: iphoneos-arm
@@ -122,6 +138,22 @@ Section: Localization
 Description: 針對 Sileo(Beta)加入繁體中文化語系
 Author: Mrmad <mrmadtw@gmail.com>
 Name: Sileo (Beta)繁體中文化
+
+Package: com.mrmadjb.springtomize4cht
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.springtomize4cht_4.0.1_iphoneos-arm.deb
+Size: 8424
+MD5sum: 3eb124bfc9b090d7b3ce8701bacde2fe
+SHA1: 1d5250b21cee5a487a870e4e866313e45fd9eb04
+SHA256: c76e2f9acdec3271dfbb717d8f4d3fce68a68021c4e133875eb759a865f01b19
+Section: Localization
+Description: 使用使用前先裝主程式
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.springtomize4cht
+Name: Springtomize 4 繁體中文化
 
 Package: com.mrmadjb.tinybannerscht
 Version: 0.0.1
