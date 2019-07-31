@@ -46,6 +46,21 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadjb.github.io/depictions/?p=com.mrmadjb.chargeanimationscht
 Name: ChargeAnimations繁體中文化
 
+Package: com.mrmadjb.esunbankbypass
+Version: 1.0-69+debug
+Architecture: iphoneos-arm
+Maintainer: Yud1 <smilelove426@gmai.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.mrmadjb.esunbankbypass_1.0-69+debug_iphoneos-arm.deb
+Size: 5568
+MD5sum: 0e7999bf399419ac8b8872b23f3f9110
+SHA1: 11f1e4b7bd0f7423663055e7f990fdfdacb52f7d
+SHA256: 506ee5a609f034ad7f2f3e239d438ce8bef64cb0b3d8b2e418a799f07b4d15a1
+Section: Tweaks
+Description: Bypass ESunbank Jailbreak Detection
+Author: Yud1 <smilelove426@gmai.com>
+Name: ESunbank Bypass
+
 Package: com.mrmadjb.flamecht
 Version: 1.3
 Architecture: iphoneos-arm
