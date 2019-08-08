@@ -13,6 +13,21 @@ Description: Bypass 全聯PXPay
 Author: TinXie
 Name: PxMart PRO FJB
 
+Package: com.mrmadjb.PxMartPRO
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: TinXie <s2339956@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.mrmadjb.PxMartPRO_1.2_iphoneos-arm.deb
+Size: 40956
+MD5sum: e1055527657e17b165b68bfb8975ff8b
+SHA1: cdbd05d21bbbcd9bc2e12686ac5d8a74326ebdea
+SHA256: d15ea33e536a3aa49b9f1372daa49cb45c1c70a432199a43d2e53633948ea197
+Section: Tweaks
+Description: 全聯pay 防越獄檢測，同時支援全家app
+Author: TinXie <s2339956@gmail.com>
+Name: PxMart PRO FJB
+
 Package: com.mrmadjb.batterypercent12cht
 Version: 1.0.1
 Architecture: iphoneos-arm
